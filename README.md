@@ -204,7 +204,7 @@ ssh smeagol@192.168.10.7
 
 ## 📸 Screenshot
 
-![SSH Access](screenshots/ssh-access.png)
+https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough/blob/a6ebd2d3998ea37b3fdb6d65b4cb817c94cf9f74/Screenshot%202026-05-07%20151006.png
 
 ---
 
