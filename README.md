@@ -104,7 +104,7 @@ http://192.168.10.7:1337
 Directory fuzzing using FFUF:
 
 ```bash
-ffuf -u http://192.168.10.7:1337/FUZZ -w /usr/share/wordlists/dirb/common.txt -e 'html,.php,.index' -fw 21
+ffuf -u http://192.168.10.7:1337/FUZZ -w /usr/share/wordlists/dirb/common.txt -e 'html,.txt,.php' -fw 21
 ```
 
 ## 📸 Screenshot
