@@ -43,7 +43,7 @@ nmap -sC -sV -p- 192.168.10.7
 
 ## 📸 Screenshot
 
-![Nmap Scan](screenshots/nmap-scan.png)
+https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough/blob/0d838cfd840d2e32851111906bf304186f5e5c00/Screenshot%202026-05-06%20135038.png
 
 ### Result
 
