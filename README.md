@@ -109,7 +109,7 @@ ffuf -u http://192.168.10.7:1337/FUZZ -w /usr/share/wordlists/dirb/common.txt
 
 ## 📸 Screenshot
 
-![FFUF Output](screenshots/ffuf-output.png)
+https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough/blob/c641e776fd0351c2c6e9ee053d68206fb394cec4/Screenshot%202026-05-06%20140152.png
 
 A hidden file was discovered:
 
