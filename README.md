@@ -259,11 +259,6 @@ Executed exploit:
 ```bash
 ./exploit
 ```
-
-## 📸 Screenshot
-
-![Privilege Escalation](screenshots/privilege-escalation.png)
-
 ---
 
 # 💀 Root Access Achieved
@@ -276,7 +271,7 @@ root@LordOfTheRoot:/#
 
 ## 📸 Screenshot
 
-![Root Shell](screenshots/root-shell.png)
+https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough/blob/ed396b2cc44ec1d0d8af16a2832bc869304c0213/Screenshot%202026-05-07%20152230.png
 
 ---
 
@@ -316,6 +311,7 @@ salik921
 💻 Penetration Testing Enthusiast
 🔥 Red Teaming Learner
 🛡 Web Exploitation & Privilege Escalation
+
 ### ⭐ If you found this walkthrough useful, give this repository a star ⭐
 
 
