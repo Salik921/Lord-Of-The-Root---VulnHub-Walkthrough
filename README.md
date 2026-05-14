@@ -183,7 +183,7 @@ sqlmap -r root1.txt -D webapp -T users --dump
 
 ## 📸 Screenshot
 
-![SQLMap Dump](screenshots/sqlmap-dump.png)
+https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough/blob/b2de898d4b153493af3d04c5aa20acc504055ca6/Screenshot%202026-05-07%20150912.png
 
 ### Credentials Found
 
