@@ -151,23 +151,7 @@ http://192.168.10.7:1337/978345210/index.php
 
 ## 📸 Screenshot
 
-![Login Panel](screenshots/login-panel.png)
-
----
-
-# 💉 SQL Injection Authentication Bypass
-
-Payload used:
-
-```sql
-' OR 1=1-- -
-```
-
-Authentication bypass was successful.
-
-## 📸 Screenshot
-
-![Burp SQLi](screenshots/burp-sqli.png)
+https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough/blob/96541ea03ad8b29a104907165c64688f1ad3b205/Screenshot%202026-05-06%20140614.png
 
 ---
 
