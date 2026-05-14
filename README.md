@@ -131,7 +131,7 @@ echo "ENCODED_TEXT" | base64 -d
 
 ## 📸 Screenshot
 
-![Decoding Process](screenshots/decoding-process.png)
+https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough/blob/43898b082bebbb567eb54ddd9236f3e9ced7d54e/Screenshot%202026-05-06%20140453.png
 
 Hidden directory discovered:
 
