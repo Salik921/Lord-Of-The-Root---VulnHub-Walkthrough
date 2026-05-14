@@ -83,7 +83,7 @@ nmap -p- 192.168.10.7
 
 ## 📸 Screenshot
 
-![Port Knocking](screenshots/port-knocking.png)
+https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough/blob/705de236d108d86578af5b14e80a1b1511ac5b75/Screenshot%202026-05-06%20135822.png
 
 ### New Port Discovered
 
